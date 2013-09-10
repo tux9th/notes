@@ -1,8 +1,8 @@
 Todo:
 
-- Pauline Script
+- get reviews on Black Jack function
+    FIXED: bug when both bank and player are over 21 -> tie not lose.
+- Get reviews on Pauline Script
 - Script addition to Earth Spirit about Dark Magic
 - Script addition to any NPC teaching low lvl War Spell
-- get reviews on Black Jack function
-    Fix bug when both bank and player are over 21 -> tie not lose.
 - think about Casino, Casino Coin System
