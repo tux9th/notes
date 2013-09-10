@@ -2,6 +2,7 @@ Todo:
 
 - The commit message should also mention the fluffies are now aggressive
 
+- fix dark summon spells abuse potential.
 - get reviews on Black Jack function
     FIXED: bug when both bank and player are over 21 -> tie not lose.
 - Get reviews on Pauline Script
