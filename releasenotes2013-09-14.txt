@@ -1,0 +1,62 @@
+NEWS:
+{date:2013-09-14}
+
+We have a small content release today.
+A witch in Tulimshar has found some daunting spells
+for mages who are experienced in Astral Magic.
+Talk to her about that. Maybe she is willing to teach you.
+
+With this update, we have added some minor bugfixes for the
+Waric script, Bluepar sprite and Wicked Mushroom sprite.
+
+{author:TMW Development Team}
+___________________________________________________
+Restart process:
+
+    pull from origin/unsupported
+
+    run world/map/conf/build-magic.sh
+
+    edit world/map/conf/spells-build
+
+    add the following after s/"#A12"/"#kalakarenk"/
+
+        s/"#A14"/"#kalboo"/
+        s/"#A15"/"#kalgina"/
+
+    and before
+    s/"#G10"/"#inwilt"/
+
+    update client-data
+
+Announce restart, wait timeframe, !Announce that people should stop picking up money from the bank! wait 5 minutes announce again, wait another 5minutes -> restart.
+
+
+Facebook / G+ post:
+The server is now live with yet another small content addition. If you are trained in Astral Magic you should check out the Witch in Tulimshar, North District.
+
+Forum post:
+
+Content update 2013-09-14:
+
+Another small addition is going live today. Those of you who have been watching the Forums might have noticed. We're adding two spells to [url=http://forums.themanaworld.org/viewtopic.php?f=2&t=17685]Astral Magic[/url] to balance it against Dark Magic.
+Also an NPC in Tulimshar North has been updated with a new Quest. It's all in the link [url=http://forums.themanaworld.org/viewtopic.php?f=2&t=17685]here[/url]
+Apart from the new content, we've also added some bugfixes:
+
+[list]
+[*]Waric script fixes
+[*]Bluepar / Wicked Mushroom sprite fixes
+[*]small mapfix on 017-3.
+[*]mapfix 009-4.
+[/list]
+
+Full list of changes:
+
+[list]
+[*]Added summon Mouboo, summon Pinkie spell
+[*]edited summon Fluffy spell to spawn slaves instead of just mobs
+[*]Added Pinkie to the #chipchip list, it will now make Sagatha happy to shear pinkies, it will make her angry to kill pinkies
+[*]Pauline now teaches two new Astral Spells. The quest will require the player to give her the ingredients needed. You can give her wrong ingredients as well. She will take all ingredients, regardless if they are correct or not. Check out the [url=http://wiki.themanaworld.org/index.php/Pauline]Wiki[/url] for more information.
+[/list]
+
+with best regards tux9th
