@@ -1,0 +1,8 @@
+Where we go from 2013-09-14:
+
+- eLv Commit by V0id, with Quest changes to Setzer Quest, Forest Bow Quest (don't forget Gwendoline).
+    look through the level requirements once more and maybe get level restrictions on quests which give items.
+- Halloween is comming close, either make an event or get the Crypt ready.
+    what is needed to finish the Crypt
+- Finish the rest of the Dark Magic Spells, maybe get them into the Crypt ^
+- Finish Acornshot spell, get it into a NPC to teach
