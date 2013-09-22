@@ -1,0 +1,40 @@
+Magic3
+
+Starts with a quest for Transmutation Magic 3.
+NPC in Crypt:
+Teaches you spell with which is Transmutation Magic Level 2 and Quest dependend (you have to learn it from the NPC)
+This spell will consume 30 Jars Of Blood. The Spell take all the Iron of the Blood and fuses the atomic
+nuclei together, creating a Radiating Iron Lump.
+    to be able to cast this spell successfully you have to be at least level 90 with Lazurite,
+    or Level 95 with full Magic XP and full Magic Equip (724+ m.Att)
+You can only give this item to the NPC if you've casted the spell successfully.
+After giving the NPC the item he gives you a list of items to gather.
+
+White Fur: 1000
+Diamond: 40
+Jack-o-Lantern: 12
+Skull: 20
+Dark Crystal: 60
+Jar of Blood: 5
+
+You can give him one item after another. Once you gave him all the items he will give you a Red Blanket. This blanket
+is a special transportation blanket. He will teach you the invocation and you can then travel to a special hideout
+using the blanket as component to a spell.
+
+At the special hideout which seems to be a very small house with now windows and no doors you meet another Wizard.
+He will ask who sent you and will ask you a few question (possibly challange to a match of Tic Tac Toe :D)
+Once you passed all his questions (or Tic Tac Toe) he will tell you that he is one of the last few Mages who knows
+the higher levels of magic. He himself claims knowing everything about Transmutation Magic. He is also skilled in
+General Magic and Transportation Magic.
+He accepts you as a student if you show him the blanket. <You learn Transmutation Magic 3> and get 800.000XP.
+The first spell he will teach you is how to create a catalyst which substitutes the Sulphur Powder in the #flar spell.
+This catalyst will just work if you have completed the quest. So trading it won't help.
+Ingredients for the Catalyst Transmutation Spell:
+
+* Radiating Iron Lump
+* 700 Sulphur Powder
+* Iron Ingot
+* 15 Jack-o-Souls
+
+After completing the spell you will recieve a Flare Dart Talisman.
+Magic.conf line 1686
